@@ -1,0 +1,18 @@
+reqm gestion de requerimento
+
+jefe de pryecto
+--
+(nombre de anlistas)
+
+
+pone rnomeclaturas solicitud de requerimentos
+(Excel)
+
+coordinardor quien llena le documento lista maestra d requerimiento
+sponsro pone la plata (cliente)-profesor
+
+acta reunion cliente 
+rem
+registro cambio
+matriz trazabilidad 
+solicitud 
