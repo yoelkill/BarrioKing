@@ -16,3 +16,21 @@ rem
 registro cambio
 matriz trazabilidad 
 solicitud 
+
+
+categoria metricas 
+-metricas lcalidasd
+-recursos humanos no()
+-plazos costo no()
+-clientes
+productivdadnno8(9
+-
+
+ma
+procesos aseguramiento calidad
+//metrica pdf
+metrica ppqa
+matroiz sde seguimiento de proyecto
+herramienta de gestion de qa para productos
+check list proyecto
+
