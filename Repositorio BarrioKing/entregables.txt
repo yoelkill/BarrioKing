@@ -1,4 +1,5 @@
 
+plan d eproyecto y cronogram --yo
 procesos de ingenieria  plan deproyecto 
 -------------------------------------------
 rqem
@@ -27,3 +28,5 @@ herramienta de gestion de qa para productos--yo
 check list proyecto--yo
 ------------------------------------------------
 ma
+
+
