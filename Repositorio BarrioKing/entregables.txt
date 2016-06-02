@@ -1,5 +1,6 @@
 
 procesos de ingenieria  plan deproyecto 
+-------------------------------------------
 rqem
 
 formato acta de reunion--ponce
@@ -16,7 +17,13 @@ ejemplo de metrica reqm --yo
 Matriz de trazabilidad 
 
 reqm
-
-ma
-
+---------------------------------------------------
 ppqa
+procesos aseguramiento calidad--ponce
+//metrica pdf
+metrica ppqa--sinche
+matroiz sde seguimiento de proyecto--yo
+herramienta de gestion de qa para productos--yo
+check list proyecto--yo
+------------------------------------------------
+ma
