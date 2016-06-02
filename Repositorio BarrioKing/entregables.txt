@@ -27,6 +27,12 @@ matroiz sde seguimiento de proyecto--yo
 herramienta de gestion de qa para productos--yo
 check list proyecto--yo
 ------------------------------------------------
-ma
+cm
+
+registro de item--ponce
+formato de solicitud--sinche
+metric aindice de cambio--yo
+proceso de gestion d econfigueracion--sinche
+psi-cmmi gestion--sinche
 
 
