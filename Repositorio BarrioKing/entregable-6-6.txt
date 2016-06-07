@@ -1,0 +1,18 @@
+reqm
+cm 
+ma--solo metricas son 4
+ma
+ficha metrica de pp pmc
+ficha metrica de reqm
+ficha metrica ppqa
+ficha metrica cm
+una metrica por cada area 
+
+
+entregable 
+proceso de gestion de requerimiento 
+actas
+registro de cambios a requerimiento
+la matriz de traxabilidad
+solicitud de cambios de requerimiento
+tablero de metrica
